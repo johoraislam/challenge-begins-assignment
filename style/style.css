@@ -150,3 +150,38 @@ header {
     letter-spacing: 0%;
     text-align: left;
 }
+
+.current-target{
+    width: 850px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.curd{
+    
+
+width: 264px;
+height: 290px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 20px;
+padding: 20px;
+
+border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+
+}
+
+.target-curd{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin-bottom: 30px;
+}
